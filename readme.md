@@ -4,10 +4,10 @@
 
 2023-07-06 ---- ~
 
-- [] TS-challenges
-- [] Algorithms
-- [] Blogs/Articles
-- [] Summary for Blogs/Articles
+- [ ] TS-challenges
+- [ ] Algorithms
+- [ ] Blogs/Articles
+- [ ] Summary for Blogs/Articles
 
 ## level
 
